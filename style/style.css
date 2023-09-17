@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(39, 43, 58);
+    overflow-x: hidden;
+    min-height: 100%;
+    display: flex;
+    flex-direction:column;
+    place-items: center;
+    margin: 0;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #e0e6ec;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+.logreg_section{
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+    padding-inline: 100%;
+    height:3em;
+    background-color: rgba(19, 27, 29, 0.897);
+}
+
+.card_grid {
+    flex-wrap: wrap!important;
+    display: flex!important;
+    flex: 0 0 100%;
+    place-items:center;
+    max-width: 100%;
+}
+
+.card_cell{
+    padding: 0.7em!important;
+}
+
+a , a:visited{
+    text-decoration: none;
+    color: rgb(235, 237, 241);
+}
+
+
+.link_card_cell, a:hover{
+    color: rgb(221, 141, 158);
+    transition: all 0.35s;
+    -webkit-transition: all 0.35s;
+}
+
+ul{
+    list-style: none;
+    padding: 1.5em!important;
+    background-color: #222227 ;
+    border-radius: 20px;
+}
+
+.title{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type="text"] , input[type="password"] , input[type="email"]{
+    border-radius: 5px;
+    height: 2em;
+    width: 30em;
+    margin-top: 1em;
+}
+
+.search_section{
+    margin: 1em;
+    display:flex;
+    flex-direction:column;
+    place-items: center;
+}
+
+table{
+    background-color: #222227;
+    margin-top: 0;
+    width: 100%;
+    border-radius: 7px;
+}
+
+.logButton{
+    margin: 0.5em;
+    padding: 1em;
+}
+
+button{
+    width: 6em;
+    height: 2.5em;
+    text-align: center;
+}
+
+.login_form , .reg_form {
+    position: relative;
+    background: #292323de;
+    margin-bottom: 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 40px rgba(247, 249, 252, 0.1);
+    overflow: hidden;
+}
+.loginput{
+    margin-top: 0em !important;
+    background-color: #e0e6ecd0;
+}
+.errors{
+    color: red;
+}

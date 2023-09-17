@@ -1,0 +1,72 @@
+{
+    "dsg234@!43sdsd": {
+        "username": "admin",
+        "password": "$2y$10$ft.86v.b6LrNZQGAKGLm2eLhq\/y1sUBx\/U.9h\/\/onKsYaFJnmG1SK",
+        "email": "email1@email.hu",
+        "isAdmin": true,
+        "id": "dsg234@!43sdsd"
+    },
+    "64919955cdc93": {
+        "username": "reza",
+        "password": "$2y$10$T8tgf0G3uTNzCqx\/qhX5T.6Za0igsTalYx\/\/UjO02Z80YP\/U\/895a",
+        "email": "rezakhadem10@yahoo.com",
+        "isAdmin": false,
+        "id": "64919955cdc93"
+    },
+    "649199a228c3c": {
+        "username": "user",
+        "password": "$2y$10$S9ZOevQ\/CCDDpEO0BuZmVuqE5vCwCn0zL8KXG7uK\/.MVLzuYA2mjK",
+        "email": "hkhademh@yahoo.com",
+        "isAdmin": false,
+        "id": "649199a228c3c"
+    },
+    "64919ab2dca10": {
+        "username": "hello",
+        "password": "$2y$10$5soFZ1sgtjF945z5PFUzaOM\/2IKmbuMbnOwjuS0fbDPQBD5IjwlaC",
+        "email": "hkheademh@yahoo.com",
+        "isAdmin": false,
+        "id": "64919ab2dca10"
+    },
+    "649252753e2fc": {
+        "username": "hi",
+        "password": "$2y$10$x151lYyguo0SYIhlEP\/dge7A\/FaLeYoFMEJVEgWG39Ie1CwX\/fJ6O",
+        "email": "rezakhadem812@gmail.com",
+        "isAdmin": false,
+        "id": "649252753e2fc"
+    },
+    "6492532a0ea04": {
+        "username": "hil",
+        "password": "$2y$10$a24PIPeYbXlQ\/8RcHblSeOoTs9MFGID9zXCLkt09U4XSmYLbrivMi",
+        "email": "rezakhadesm10@yahoo.com",
+        "isAdmin": false,
+        "id": "6492532a0ea04"
+    },
+    "6492533b0c49b": {
+        "username": "hilw",
+        "password": "$2y$10$b612ErqK2Gc7RRBJsi0MquMRhK3qeqxb71r75WwxFXkeygvTFTo\/q",
+        "email": "rezakhadesdm10@yahoo.com",
+        "isAdmin": false,
+        "id": "6492533b0c49b"
+    },
+    "6493158f7a45e": {
+        "username": "tara",
+        "password": "$2y$10$8lO8mLzPFW4dbPqB2FqBQOGh\/6z39GW2PE1WoK2YVttk81ilz4jB6",
+        "email": "rezakhadesrtym10@yahoo.com",
+        "isAdmin": false,
+        "id": "6493158f7a45e"
+    },
+    "64931cc5024bf": {
+        "username": "userfg",
+        "password": "$2y$10$MqNTOKd5c0StxBSVw48J4eYddmOlT8W0QWb5y5vngmW9odcZG9bam",
+        "email": "tomtinyerer10@gmail.com",
+        "isAdmin": false,
+        "id": "64931cc5024bf"
+    },
+    "64f11f7116663": {
+        "username": "fghfghfgh",
+        "password": "$2y$10$mpZoy7MVuSKCohb8O0rGEOExR99kIOdHC57t6voY4KomAlDGimc\/y",
+        "email": "tomtiny10@gmail.comrthrt",
+        "isAdmin": false,
+        "id": "64f11f7116663"
+    }
+}

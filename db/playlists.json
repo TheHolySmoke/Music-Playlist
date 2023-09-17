@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Best early 2000s hits",
+        "public": true,
+        "created_by": "admin",
+        "tracks": [
+            1,
+            2
+        ]
+    },
+    {
+        "name": "Pretty ladies who sing",
+        "public": true,
+        "created_by": "hello",
+        "tracks": [
+            0,
+            2
+        ]
+    },
+    {
+        "name": "Rock Classics",
+        "public": true,
+        "created_by": "musiclover",
+        "tracks": [
+            4,
+            7,
+            9
+        ]
+    },
+    {
+        "name": "Feel-Good Songs",
+        "public": false,
+        "created_by": "happyvibes",
+        "tracks": [
+            3,
+            6,
+            8
+        ]
+    },
+    {
+        "name": "Top Hip-Hop Hits",
+        "public": true,
+        "created_by": "rapfanatic",
+        "tracks": [
+            5,
+            9,
+            10
+        ]
+    },
+    {
+        "name": "Summer Vibes",
+        "public": true,
+        "created_by": "beachlover",
+        "tracks": [
+            2,
+            7,
+            8
+        ]
+    },
+    {
+        "name": "Chill and Relax",
+        "public": true,
+        "created_by": "mellowvibes",
+        "tracks": [
+            1,
+            4,
+            10
+        ]
+    },
+    {
+        "name": "Throwback Jams",
+        "public": true,
+        "created_by": "nostalgialover",
+        "tracks": [
+            0,
+            6,
+            9
+        ]
+    },
+    {
+        "name": "Pop Hits",
+        "public": true,
+        "created_by": "popfanatic",
+        "tracks": [
+            3,
+            5,
+            8,
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "name": "Indie Vibes",
+        "public": false,
+        "created_by": "indiemusiclover",
+        "tracks": [
+            1,
+            4,
+            7
+        ]
+    },
+    {
+        "name": "R&B Grooves",
+        "public": true,
+        "created_by": "rnblover",
+        "tracks": [
+            1,
+            0
+        ]
+    },
+    {
+        "name": "Classic Hits",
+        "public": true,
+        "created_by": "classicrockfan",
+        "tracks": [
+            0,
+            3,
+            6,
+            7
+        ]
+    }
+]

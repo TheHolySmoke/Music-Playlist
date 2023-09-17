@@ -1,0 +1,201 @@
+[
+    {
+        "title": "Baby One More Time",
+        "artist": "Britney Spears",
+        "length": 237,
+        "year": 1998,
+        "genres": [
+            "dance pop",
+            "teen pop"
+        ]
+    },
+    {
+        "title": "It's my life",
+        "artist": "Bon Jovi",
+        "length": 224,
+        "year": 2000,
+        "genres": [
+            "pop rock",
+            "arena rock"
+        ]
+    },
+    {
+        "title": "Suerte",
+        "artist": "Shakira",
+        "length": 196,
+        "year": 2001,
+        "genres": [
+            "worldbeat",
+            "latin"
+        ]
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "length": 354,
+        "year": 1975,
+        "genres": [
+            "rock",
+            "progressive rock"
+        ]
+    },
+    {
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "length": 358,
+        "year": 1982,
+        "genres": [
+            "pop",
+            "funk"
+        ]
+    },
+    {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "length": 390,
+        "year": 1976,
+        "genres": [
+            "rock",
+            "soft rock"
+        ]
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "length": 301,
+        "year": 1991,
+        "genres": [
+            "grunge",
+            "alternative rock"
+        ]
+    },
+    {
+        "title": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "length": 369,
+        "year": 1965,
+        "genres": [
+            "rock",
+            "folk rock"
+        ]
+    },
+    {
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "length": 258,
+        "year": 1995,
+        "genres": [
+            "britpop",
+            "rock"
+        ]
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "length": 431,
+        "year": 1968,
+        "genres": [
+            "rock",
+            "pop"
+        ]
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "length": 356,
+        "year": 1987,
+        "genres": [
+            "rock",
+            "hard rock"
+        ]
+    },
+    {
+        "title": "I Will Always Love You",
+        "artist": "Whitney Houston",
+        "length": 273,
+        "year": 1992,
+        "genres": [
+            "pop",
+            "R&B"
+        ]
+    },
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "length": 183,
+        "year": 1971,
+        "genres": [
+            "rock",
+            "pop"
+        ]
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "length": 293,
+        "year": 1982,
+        "genres": [
+            "pop",
+            "funk"
+        ]
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "length": 257,
+        "year": 1981,
+        "genres": [
+            "rock",
+            "arena rock"
+        ]
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "length": 354,
+        "year": 1975,
+        "genres": [
+            "rock",
+            "progressive rock"
+        ]
+    },
+    {
+        "title": "Sweet Home Alabama",
+        "artist": "Lynyrd Skynyrd",
+        "length": 285,
+        "year": 1974,
+        "genres": [
+            "rock",
+            "southern rock"
+        ]
+    },
+    {
+        "title": "Imagine",
+        "artist": "Ariana Grande",
+        "length": 186,
+        "year": 2019,
+        "genres": [
+            "pop"
+        ]
+    },
+    {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "length": 228,
+        "year": 2010,
+        "genres": [
+            "pop",
+            "soul"
+        ]
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "length": 233,
+        "year": 2017,
+        "genres": [
+            "pop",
+            "dancehall"
+        ]
+    }
+]
